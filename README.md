@@ -1,6 +1,11 @@
 # System-Design-
 We will cover Whole concepts Of LLD &amp; HLD with the Practice  Question And the project that is relevant in this section
+
+
+
 **System Design Basics Notes :**
+
+
 Vertical Scaling : Improving a single resource to increase output (e.g., asking one chef to work harder).
 Preprocessing : Optimizing workflows by preparing tasks during non-peak hours using cron jobs.
 Resilience & Backups : Eliminating single points of failure by having backup resources ready.
